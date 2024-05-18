@@ -1,6 +1,6 @@
 ### Hi there <h1>I'M Abdallah Elsayed 👋</h1>
-<h2>MERN Stack Developer 🤓</h2>
-<p>🔍 Seeking to work as MERN Stack developer or Front-end Developer with a proffesional team</p>
+<h2>FullStack Developer 🤓</h2>
+<p>🔍 Seeking to work as a FullStack developer or Front-end Developer using MERN and Next js with a professional team</p>
 <div id="header" align="center"> <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100" /> <div id="badges">
   <a href="https://www.linkedin.com/in/abdallah-elsayed-2188b4104/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,9 +21,16 @@
 <li><g-emoji class="g-emoji" alias="gem" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48e.png">💎</g-emoji>  <a href="https://www.linkedin.com/in/abdallah-elsayed-2188b4104/" rel="nofollow">LinkedIn</a></li>
 </ul>
 <h3>📂 Portfilio <a href="https://abdallah10793.github.io/Abdallah-portfolio/">Abdallah-Portfolio</a></h3>
-- 💻 I’m currently working on AKE Tuning website Using MERN (Vehicles chip tuning and remapping Files services)🚗🏎🏍 
+- 💻 I’m currently working on the AKE Tuning website Using MERN (Vehicles chip tuning and remapping Files services)🚗🏎🏍 
 
-<h3>💼 Last Project <a href="https://wensh-inkaz.com/">wensh-inkaz.com</a>🚚</h3>
+<h3>💼 Last Projects </h3>
+<h3><a href="https://wensh-inkaz.com/">wensh-inkaz.com</a>🚚</h3>
+<h3><a href="https://shonashrom.com/">shonashrom.com</a></h3>
+<h3><a href="https://albarraka-store.onrender.com/">Albaraka-store.com</a></h3>
+<h3><a href="[https://albarraka-store.onrender.com/](https://kengster-flax.vercel.app/)">Kengster.com</a></h3>
+
+
+
 
 <h2>👨‍💻 Skills</h2>
 <ul>
