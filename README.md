@@ -27,7 +27,7 @@
 <h3><a href="https://wensh-inkaz.com/">wensh-inkaz.com</a>🚚</h3>
 <h3><a href="https://shonashrom.com/">shonashrom.com</a></h3>
 <h3><a href="https://albarraka-store.onrender.com/">Albaraka-store.com</a></h3>
-<h3><a href="[https://albarraka-store.onrender.com/](https://kengster-flax.vercel.app/)">Kengster.com</a></h3>
+<h3><a href="https://kengster-flax.vercel.app/">Kengster.com</a></h3>
 
 
 
